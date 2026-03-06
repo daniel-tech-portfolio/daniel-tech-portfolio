@@ -1,67 +1,89 @@
-# Hi, I'm Daniel 👋
+# Daniel | IT Support • Networking • Cybersecurity
 
-## IT Support | Networking | Cybersecurity
+Entry-level IT professional with hands-on experience in troubleshooting, networking, system administration, and security analysis. My focus is supporting Microsoft-based environments while continuing to develop automation and cybersecurity skills.
 
-I am an IT Networking graduate and Security Intern with hands-on experience in help desk support, Active Directory administration, networking troubleshooting, and cybersecurity tools. I am passionate about solving technical problems, supporting users, and continuously learning new technologies.
+I recently completed my Associate Degree in IT Networking and actively build labs and tools that simulate real-world IT support scenarios.
 
 ---
 
 ## Technical Skills
 
-### IT Support
-• Help Desk Troubleshooting  
-• Ticket Triage & Documentation  
-• Printer & Hardware Support  
-• Windows OS Administration  
+**Operating Systems**
+- Windows 10 / Windows 11
+- Windows Server
+- Linux (Kali, Ubuntu, Fedora)
 
-### Networking
-• TCP/IP Troubleshooting  
-• VLANs & Routing Concepts  
-• DHCP, DNS, and Connectivity Diagnostics  
-• Wireshark Packet Analysis  
+**IT Support & Systems**
+- Active Directory
+- Microsoft 365
+- Azure Fundamentals
+- Endpoint troubleshooting
+- Printer and peripheral support
+- Ticket triage and documentation
 
-### Systems Administration
-• Active Directory User Management  
-• Group Policy Basics  
-• Microsoft 365 Administration  
-• Azure Virtual Machines  
+**Networking**
+- TCP/IP
+- DNS / DHCP
+- VLAN fundamentals
+- Network troubleshooting
+- Wireshark packet analysis
 
-### Cybersecurity
-• Security Onion Monitoring  
-• Vulnerability Scanning  
-• Network Traffic Analysis  
-• Endpoint Security Tools  
+**Security & Analysis**
+- Security Onion
+- Basic incident triage
+- Log analysis
+- Network traffic inspection
 
----
-
-## Featured Projects
-
-### IT Help Desk Portfolio
-A collection of real-world IT troubleshooting guides and workflows.
-
-Includes:
-
-• Password Reset Procedures  
-• Printer Troubleshooting Workflow  
-• Network Connectivity Diagnostics  
-• Active Directory Support Tasks  
-• Help Desk Ticket Triage Process  
+**Scripting**
+- PowerShell automation
+- Basic system inventory scripts
 
 ---
 
-## Current Goals
+# Featured Projects
 
-• Starting a career in IT Support or Networking  
-• Expanding PowerShell automation skills  
-• Building cloud and cybersecurity expertise  
+## IT Helpdesk Cheat Sheets
+Practical troubleshooting guides based on common IT support issues including password resets, printer troubleshooting, network connectivity problems, and ticket triage procedures.
+
+Repository:
+https://github.com/daniel-tech-portfolio/IT-Helpdesk-CheatSheets
+
+Skills demonstrated:
+- IT troubleshooting methodology
+- Helpdesk workflow
+- Active Directory support
+- User support documentation
 
 ---
 
-## Connect With Me
+## PowerShell IT Scripts
+Collection of PowerShell scripts designed to assist with common IT administration tasks such as system inventory collection, network troubleshooting, and cleanup operations.
 
-LinkedIn:   www.linkedin.com/in/daniel-rork-200bb2b
+Repository:
+https://github.com/daniel-tech-portfolio/PowerShell-IT-Scripts
+
+Skills demonstrated:
+- PowerShell scripting
+- System administration automation
+- Windows troubleshooting tools
+
+---
+
+## Current Learning Focus
+
+- Microsoft Azure administration
+- Endpoint management (Intune)
+- IT automation using PowerShell
+- Network security monitoring
+
+---
+
+## Contact
+
+LinkedIn: www.linkedin.com/in/daniel-rork-200bb2b
+
 Email: drork79@yahoo.com
 
 ---
 
-*This GitHub serves as my professional IT portfolio demonstrating practical technical skills and real-world troubleshooting experience.*
+*This GitHub profile is used to demonstrate practical IT skills, troubleshooting knowledge, and scripting experience relevant to entry-level IT support and systems administration roles.*
