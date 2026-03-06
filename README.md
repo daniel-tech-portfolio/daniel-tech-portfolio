@@ -1,89 +1,85 @@
-# Daniel | IT Support • Networking • Cybersecurity
+# Hi, I'm Daniel Rork
 
-Entry-level IT professional with hands-on experience in troubleshooting, networking, system administration, and security analysis. My focus is supporting Microsoft-based environments while continuing to develop automation and cybersecurity skills.
+## IT Support | Networking | Cybersecurity
 
-I recently completed my Associate Degree in IT Networking and actively build labs and tools that simulate real-world IT support scenarios.
+I’m an IT professional with a background in technical support, networking, and cybersecurity, focused on building practical, real-world skills that translate directly into the workplace. My experience includes help desk support, troubleshooting Windows environments, Active Directory administration, networking diagnostics, PowerShell scripting, and security-focused lab work.
+
+I created this GitHub portfolio to showcase hands-on projects, troubleshooting documentation, and technical examples that reflect the kind of work I enjoy most: solving problems, supporting users, improving systems, and continuing to grow in IT.
+
+---
+
+## What I Bring
+
+- End-user support and help desk troubleshooting
+- Windows desktop and basic systems administration
+- Active Directory and Microsoft 365 support tasks
+- Network troubleshooting using TCP/IP, DNS, DHCP, and Wireshark
+- PowerShell scripting for IT support and system tasks
+- Cybersecurity lab experience including traffic analysis and monitoring tools
+- Clear documentation and step-by-step technical workflows
 
 ---
 
 ## Technical Skills
 
-**Operating Systems**
-- Windows 10 / Windows 11
-- Windows Server
-- Linux (Kali, Ubuntu, Fedora)
+### IT Support
+- Help desk troubleshooting
+- Ticket triage and issue documentation
+- Hardware, printer, and peripheral support
+- Windows OS support
 
-**IT Support & Systems**
-- Active Directory
-- Microsoft 365
-- Azure Fundamentals
-- Endpoint troubleshooting
-- Printer and peripheral support
-- Ticket triage and documentation
+### Networking
+- TCP/IP troubleshooting
+- DNS and DHCP diagnostics
+- VLAN and routing fundamentals
+- Connectivity testing and packet analysis with Wireshark
 
-**Networking**
-- TCP/IP
-- DNS / DHCP
-- VLAN fundamentals
-- Network troubleshooting
-- Wireshark packet analysis
+### Systems Administration
+- Active Directory user and group management
+- Group Policy fundamentals
+- Microsoft 365 administration
+- Azure virtual machine exposure
 
-**Security & Analysis**
-- Security Onion
-- Basic incident triage
-- Log analysis
-- Network traffic inspection
-
-**Scripting**
-- PowerShell automation
-- Basic system inventory scripts
+### Cybersecurity
+- Network traffic analysis
+- Security monitoring fundamentals
+- Vulnerability scanning
+- Endpoint and defensive security tools
 
 ---
 
-# Featured Projects
+## Featured Repositories
 
-## IT Helpdesk Cheat Sheets
-Practical troubleshooting guides based on common IT support issues including password resets, printer troubleshooting, network connectivity problems, and ticket triage procedures.
+### [Networking-Troubleshooting-Labs](https://github.com/daniel-tech-portfolio/Networking-Troubleshooting-Labs)
+Hands-on networking labs built to demonstrate troubleshooting skills for IT support and junior networking roles.
 
-Repository:
-https://github.com/daniel-tech-portfolio/IT-Helpdesk-CheatSheets
+### [PowerShell-IT-Scripts](https://github.com/daniel-tech-portfolio/PowerShell-IT-Scripts)
+Practical PowerShell scripts for common IT support tasks such as system inventory, cleanup, and basic troubleshooting.
 
-Skills demonstrated:
-- IT troubleshooting methodology
-- Helpdesk workflow
-- Active Directory support
-- User support documentation
+### [IT-Helpdesk-CheatSheets](https://github.com/daniel-tech-portfolio/IT-Helpdesk-CheatSheets)
+Quick-reference troubleshooting guides, workflows, and support notes based on real IT support scenarios.
 
 ---
 
-## PowerShell IT Scripts
-Collection of PowerShell scripts designed to assist with common IT administration tasks such as system inventory collection, network troubleshooting, and cleanup operations.
+## Current Focus
 
-Repository:
-https://github.com/daniel-tech-portfolio/PowerShell-IT-Scripts
+I’m currently focused on growing in roles related to:
 
-Skills demonstrated:
-- PowerShell scripting
-- System administration automation
-- Windows troubleshooting tools
+- IT Support
+- Desktop Support
+- Systems Administration
+- Networking
+- Cybersecurity Operations
 
----
-
-## Current Learning Focus
-
-- Microsoft Azure administration
-- Endpoint management (Intune)
-- IT automation using PowerShell
-- Network security monitoring
+I’m especially interested in opportunities where I can combine troubleshooting, user support, hands-on technical work, and continuous learning.
 
 ---
 
-## Contact
+## Connect With Me
 
-LinkedIn: www.linkedin.com/in/daniel-rork-200bb2b
-
-Email: drork79@yahoo.com
+- [LinkedIn](https://www.linkedin.com/in/daniel-rork-200bb2b)
+- Email: drork79@yahoo.com
 
 ---
 
-*This GitHub profile is used to demonstrate practical IT skills, troubleshooting knowledge, and scripting experience relevant to entry-level IT support and systems administration roles.*
+Thanks for visiting my GitHub. This portfolio is a growing collection of projects, labs, and technical documentation that reflect my skills, work ethic, and interest in building a strong career in IT.
